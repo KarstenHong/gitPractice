@@ -1,6 +1,6 @@
 ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
 
-<( ‵□′)───C ＜ ─\_\_\_-)||
+<( ‵□′)───C ＜ ─___-)||
 
 hey hey yo yo
 
@@ -14,7 +14,7 @@ HEAD
 =======
 hey hey yo yo
 
-☆*: .｡. o(≧▽≦)o .｡.:*☆
+☆: .｡. o(≧▽≦)o .｡.:☆
 
 HEAD
 
@@ -32,7 +32,11 @@ hahahahahahahahahahaehaha
 
  # fc9e56aa6b455c90341f1f6fa578db56c60cb281
 
+ master
+ ☆: .｡. o(≧▽≦)o .｡.:☆
+=======
  ☆*: .｡. o(≧▽≦)o .｡.:*☆
+ master
 
 # RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 
@@ -40,7 +44,7 @@ hahahahahahahahahahaehaha
 
  hey hey yo yo
 
-☆*: .｡. o(≧▽≦)o .｡.:*☆
+☆: .｡. o(≧▽≦)o .｡.:☆
 
 HEAD
 
@@ -63,6 +67,14 @@ master
 ﾚ(ﾟ∀ﾟ;)ﾍ　ﾍ( ﾟ∀ﾟ;)ﾉ
 =======
 
+ master
 
 ε=ε=ε=(~￣▽￣)~
+ master
+
+lalalaalalalalalalalala
+=======
+
+ε=ε=ε=(~￣▽￣)~
+ master
  master
